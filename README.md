@@ -11,6 +11,6 @@ Proud member of [Hack Club](https://hackclub.com)
 - CSS (Beginner)
 - C# (Beginner)
 ## Contact
-- GitHub: [@aarav-ml](https://github.com/aarav-ml)
+- GitHub: [@dev-aaravjain](https://github.com/dev-aaravjain)
 - E-Mail: aarav.jain01jul@gmail.com
 
