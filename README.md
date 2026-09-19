@@ -3,6 +3,7 @@
 ## About Me
 Like to build cool shit. 
 14 Years Old | Building projects to solve real problems
+Proud member of [Hack Club](https://hackclub.com)
 
 ## Skills
 - Python (Intermediate)
